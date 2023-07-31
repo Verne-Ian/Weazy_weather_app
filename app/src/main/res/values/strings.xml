@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weazy</string>
+    <string name="refresh">Refresh</string>
+    <string name="temp">0</string>
+    <string name="weatherDescription">Description</string>
+    <string name="humidity">0</string>
+    <string name="percent">%</string>
+    <string name="refreshButton">Refresh</string>
+    <string name="city">London</string>
+    <string name="enter_city_name">Enter preffered city</string>
+    <string name="humid">Humidity:</string>
+    <string name="tempUnit">⁰c</string>
+</resources>
