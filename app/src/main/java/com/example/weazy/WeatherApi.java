@@ -13,7 +13,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class WeatherApi {
-    private static final String API_KEY = "c4fab0f579869cd658a49d43754335d9";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
     private RequestQueue requestQueue;
 
